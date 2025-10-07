@@ -42,7 +42,7 @@ Music player khusus yang didesain untuk penggemar Bring Me The Horizon dengan pe
 16.	"Dig It"							                              7:12
 
 🔧 Teknologi
-•	Pure HTML, CSS, JavaScript - tanpa framework tambahan
+•	Pure HTML, JavaScript - tanpa framework tambahan
 •	Local File Integration - langsung baca file audio dari directory
 •	Custom Audio Visualizer - generated secara real-time
 •	Smooth Animations - CSS transitions dan keyframes
